@@ -11,3 +11,5 @@ public class SpringBootAstrologyApiApplication {
 	}
 
 }
+
+// http://localhost:8080/astrology?sign=Leo
